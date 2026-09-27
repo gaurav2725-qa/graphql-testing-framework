@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="GraphQL Testing Framework" verbose="1">
+    <test name="GraphQL Query Tests">
+        <classes>
+            <class name="com.graphql.automation.tests.GraphQLQueryTest"/>
+        </classes>
+    </test>
+</suite>
